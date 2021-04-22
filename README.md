@@ -9,7 +9,7 @@ star it and fork it .
 <img alt="Custom badge" src="https://img.shields.io/badge/By-Soman-9cf">
 
 <p align="center">
-    <img alt="blacked" src="https://github.com/varuogm/AgriQuiz/blob/main/Quizstar.gif?raw=true" />
+    <img alt="blacked" src="https://github.com/somanmitra06/AgriQuiz/blob/main/ezgif.com-gif-maker.gif?raw=true" />
  
 </p>
 
